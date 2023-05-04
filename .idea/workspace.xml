@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2adb50ad-0aaa-4564-bfe8-4d2343e51b13" name="Default Changelist" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pizzeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizzeria.html" afterDir="false" />
-    </list>
+    <list default="true" id="2adb50ad-0aaa-4564-bfe8-4d2343e51b13" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pizzeria.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+            <state relative-caret-position="170">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -126,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683046600700</updated>
       <workItem from="1683046601820" duration="2055000" />
-      <workItem from="1683132009839" duration="1466000" />
+      <workItem from="1683132009839" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1683047006413</created>
@@ -163,11 +160,25 @@
       <option name="project" value="LOCAL" />
       <updated>1683134917396</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1683135105499</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683135105499</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initial commit">
+      <created>1683135143371</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683135143371</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3521000" />
+    <option name="totallyTimeSpent" value="3591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="989" height="1056" extended-state="0" />
@@ -219,8 +230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pizzeria.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
